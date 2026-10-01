@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Lac Dong profile banner"/>
+<img src="./GitHub.gif" width="100%" alt="Lac Dong profile banner"/>
 
 Hi, I'm Lạc Đông
 
@@ -9,13 +9,13 @@ Software Engineer · Business Analyst · Product Thinker
 Understand → Build → Iterate
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Lacdong">
     <img src="https://img.shields.io/badge/GitHub-0D0D12?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lacdong">
     <img src="https://img.shields.io/badge/LinkedIn-0D0D12?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:leholacdong@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D0D12?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
