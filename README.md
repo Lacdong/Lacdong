@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./GitHub.gif" width="50%" alt="Lac Dong profile banner"/>
+<img src="./banner.jpg" width="100%" alt="Lac Dong profile banner"/>
 
 Hi, I'm Lạc Đông
 
