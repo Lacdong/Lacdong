@@ -106,22 +106,11 @@ Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lacdong&bg_color=0D0D12&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lacdong&theme=github-compact&hide_border=true"
     width="100%"
+    alt="Lac Dong GitHub Activity Graph"
   />
 </p>
-
-Currently Learning
-
-Software Architecture
-        ↓
-Backend Engineering
-        ↓
-Distributed Systems
-        ↓
-AI / Machine Learning
-        ↓
-FinTech / Quantitative Technology
 
 Philosophy
 
