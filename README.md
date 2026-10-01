@@ -5,7 +5,7 @@
 
 Hi, I'm Lạc Đông
 
-Software Engineer · Business Analyst · Product Thinker
+Software Engineer · Business Analyst 
 
 <p>
   <a href="https://github.com/Lacdong">
