@@ -2,11 +2,10 @@
 
 <img src="./banner.jpg" width="100%" alt="Lac Dong profile banner"/>
 
+
 Hi, I'm Lạc Đông
 
 Software Engineer · Business Analyst · Product Thinker
-
-Understand → Build → Iterate
 
 <p>
   <a href="https://github.com/Lacdong">
@@ -102,15 +101,6 @@ GitHub Statistics
   />
 </p>
 
-Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Lacdong&theme=github-compact&hide_border=true"
-    width="100%"
-    alt="Lac Dong GitHub Activity Graph"
-  />
-</p>
 
 Philosophy
 
