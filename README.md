@@ -93,11 +93,11 @@ GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D0D12&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api?username=Lacdong&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D0D12&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"
     height="170"
   />
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D0D12&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
+    src="https://streak-stats.demolab.com?user=Lacdong&hide_border=true&background=0D0D12&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
     height="170"
   />
 </p>
@@ -106,7 +106,7 @@ Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0D12&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lacdong&bg_color=0D0D12&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&hide_border=true"
     width="100%"
   />
 </p>
