@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" width="100%" alt="Lac Dong profile banner"/>
+<img src="./Moon.jpg" width="100%" alt="Lac Dong profile banner"/>
 
 
 Hi, I'm Lạc Đông
