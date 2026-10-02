@@ -186,9 +186,20 @@ I enjoy turning ambiguous problems into structured systems — from understandin
 
 </div>
 
+<br>
+<div>
+  <img src="https://img.shields.io/badge/Contributions-4B1F6F?style=for-the-badge&labelColor=0D0D12" />
+</div>
 
+<br>
+<div align="center">
+<img
+  src="./Fox.png"
+  width="100%"
+  alt="Purple fox contribution art"
+/>
 
-
+</div>
 <br>
 <div>
   <img src="https://img.shields.io/badge/Philosophy-4B1F6F?style=for-the-badge&labelColor=0D0D12" />
